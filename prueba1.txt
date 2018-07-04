@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 holanda  mamaster
-segunda linea
-=======
+segunda line
 holanda
 segunda linea
 tercera linea
->>>>>>> desarrollo
+cuartalinea branch ramaprueba
